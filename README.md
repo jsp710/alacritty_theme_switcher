@@ -1,0 +1,2 @@
+# alacritty_theme_switcher
+alacritty_theme_switcher with python
